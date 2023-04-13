@@ -4,7 +4,7 @@
 
 ✨ Main tech stack: React, Typescript, Javascript, HTML, CSS, Next.js, Node.js and Express, SQL (PostgreSQL), and Firebase
 
-💚 Passionate about learning and problem solving, celebrating creativity, using tech to build positive change and creating equitable opportunities for everyone
+💚 Passionate about learning and problem solving, celebrating creativity, diversity leadership, using tech to build positive change and creating equitable opportunities for everyone
 
 👋 You can reach me on <a href="https://www.linkedin.com/in/michelle-greensted-58589618a/" target="_blank">LinkedIn</a> or at [michellegreensted@gmail.com](mailto:michellegreensted@gmail.com)
 
