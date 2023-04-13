@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 😊
+
+- 🌏 Full-stack Engineer in Typescript/Javascript, React and Node.js
+- 🔭 Main tech stack: React, Typescript, Javascript, HTML, CSS, Next.js, Node.js and Express, SQL (PostgreSQL), and Firebase
+- ✨ Passionate about learning and problem solving, celebrating creativity, using tech to build positive change and creating equitable opportunities for everyone
+- 👋 You can reach me on [LinkedIn](https://www.linkedin.com/in/michelle-greensted-58589618a/) or at [michellegreensted@gmail.com](mailto:michellegreensted@gmail.com)
 
 <!--
 **MichelleGreensted/michellegreensted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
