@@ -1,5 +1,3 @@
-<base target="_blank">
-
 ### Hi there!
 
 🌏 Full-stack Engineer
