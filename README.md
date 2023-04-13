@@ -1,6 +1,6 @@
 ### Hi there!
 
-🌏 Full-stack Engineer in Typescript/Javascript, React and Node.js
+🌏 Full-stack Engineer
 
 ✨ Main tech stack: React, Typescript, Javascript, HTML, CSS, Next.js, Node.js and Express, SQL (PostgreSQL), and Firebase
 
